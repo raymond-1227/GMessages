@@ -1,4 +1,4 @@
-# Roblox Launcher for macOS
+# Messages by Google for macOS
 
 I found out someone have already made one with Electron.js, but whatever this one's coded in Swift.
 
