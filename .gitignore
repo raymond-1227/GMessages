@@ -1,0 +1,19 @@
+# OS or Editor folders
+._*
+.cache
+.idea
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+*.swp
+._*
