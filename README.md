@@ -2,7 +2,7 @@
 
 I found out someone have already made one with Electron.js, but whatever this one's coded in Swift.
 
-Alternative project [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop)
+Alternative project: [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop)
 
 ## About
 
