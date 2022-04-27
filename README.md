@@ -8,15 +8,13 @@ Alternative project: [kelyvin/Google-Messages-For-Desktop](https://github.com/ke
 
 A web app I designed for people who hates launching messaging apps in websites.
 
-You can pair your device normally like you do on your browser.
-
 The application quits when you close the window, so i recommend you to minimize the application if you don't want it to show up on your desktop.
 
 ## Installation
 
 [Click here](https://github.com/raymond-1227/GMessages/releases/latest) to download the zip file which includes the app itself.
 
-Just execute the app and login to your Roblox account as usual. Have fun!
+Just execute the app and pair your device normally like you do on your browser, have fun chatting! ~~(and realized your friend uses sms the entire time and your sms bill be like wtf)~~
 
 ## Cannot Open The App?
 
